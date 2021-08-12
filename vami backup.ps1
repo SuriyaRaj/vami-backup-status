@@ -18,7 +18,7 @@
 
 ## modification or redistribution is allowed with proper credits to post
 
-##
+## this script is free to use at your own risk
 
 ################################################################################
 
