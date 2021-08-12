@@ -12,7 +12,7 @@
 
 ## Email: d.suriaraj23@gmail.com  
 
-## This scripts checks the vCenter server Health Status and Backup Status
+## This powershell scripts checks the vCenter server Health Status and Backup Status
 
 ## works for single or multiple vcenter's. 
 
