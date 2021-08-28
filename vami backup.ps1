@@ -1,7 +1,5 @@
 #################################################################################
-
 ##
-
 ## VAMI Backup and Health Status
 
 ## Created by Suriaraj Dhayalan 
@@ -12,11 +10,15 @@
 
 ## Email: d.suriaraj23@gmail.com  
 
-## This scripts checks the vCenter server Health Status and Backup Status
+## This powershell scripts checks the vCenter server Health Status and Backup Status
+
+## works for single or multiple vcenter's. 
+
+## modification or redistribution is allowed with proper credits to post
+
+## this script is free to use at your own risk
 
 ################################################################################
-
- 
 
 #checking and removing html file
 
